@@ -14,7 +14,7 @@
   **Note**: This tab now has 16 languages using Claude translation
 
   **Tip:** 
-  - Hold and drag to select apps or press cmd+a to select all apps and click a checkbox to quickly apply setting to all selected apps
+  - Hold and drag to select apps or press `cmd+a` to select all apps and click a checkbox to quickly apply setting to all selected apps
   - To quickly turn off all app-specific settings, turn on `Show in Menu Bar` in the `General` tab, then uncheck `App-specific` in the Menu Bar.
 
 

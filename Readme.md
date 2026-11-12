@@ -11,6 +11,7 @@
     3. **✓** = high smoothness.
   - Everywhere else, your settings from the `Scrolling` tab apply.
 
+  **Note**: This tab now has 16 languages using Claude translation
 
   **Tip:** To quickly turn off all app-specific settings, turn on `Show in Menu Bar` in the `General` tab, then uncheck `App-specific` in the Menu Bar.
 

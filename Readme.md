@@ -13,7 +13,10 @@
 
   **Note**: This tab now has 16 languages using Claude translation
 
-  **Tip:** To quickly turn off all app-specific settings, turn on `Show in Menu Bar` in the `General` tab, then uncheck `App-specific` in the Menu Bar.
+  **Tip:** 
+  - Hold and drag to select apps or press cmd+a to select all apps and click a checkbox to quickly apply setting to all selected apps
+  - To quickly turn off all app-specific settings, turn on `Show in Menu Bar` in the `General` tab, then uncheck `App-specific` in the Menu Bar.
+
 
 
 <img width="196" height="118" alt="Screenshot 2026-11-12 at 19 21 08" src="https://github.com/user-attachments/assets/5f0bb974-eb8f-47b2-a6c1-d1b69432f3bc" />
